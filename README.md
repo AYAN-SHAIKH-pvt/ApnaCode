@@ -1,2 +1,2 @@
 # ApnaCode
-This is my first github reposioirs
+This is my first github repositories 
